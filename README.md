@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 My name is Ayukt Gujral. I'm a student of 1st year engineering student at Mirai School of Technology in Bengaluru.
+
 I'm interested in all things C++ & Data Science.
 
 🌱 I’m currently learning C++,DSA. 
