@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+My name is Ayukt Gujral. I'm a student of 1st year engineering student at Mirai School of Technology in Bengaluru.
+I'm interested in all things C++ & Data Science.
+
+🌱 I’m currently learning C++,DSA. 
+
+🌱 I recently built a clone of Youtube using HTML and CSS, check it out [here](https://u-tube33.netlify.app).
+
+
+
 <!--
 **ayukt-v/ayukt-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
