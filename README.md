@@ -8,7 +8,7 @@ I'm interested in all things C++ & Data Science.
 
 🌱 I recently built a clone of Youtube using HTML and CSS, check it out [here](https://u-tube33.netlify.app).
 
-https://github-stats-extended.vercel.app/api?username=anuraghazra&include_all_commits=true&theme=dark_github
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=anuraghazra&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=anuraghazra&include_all_commits=true&theme=dark_github)
 
 
 
