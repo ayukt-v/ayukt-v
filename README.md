@@ -8,7 +8,7 @@ I'm interested in all things C++ & Data Science.
 
 🌱 I recently built a clone of Youtube using HTML and CSS, check it out [here](https://u-tube33.netlify.app).
 
-[![Ayukt Gujral GitHub stats]([https://github.com/ayukt-v](https://github-stats-extended.vercel.app/api?username=anuraghazra)]([https://github.com/stats-organization/github-stats-extended](https://github.com/ayukt-v))
+https://github-stats-extended.vercel.app/api?username=anuraghazra&include_all_commits=true&theme=dark_github
 
 
 
