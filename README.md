@@ -10,6 +10,7 @@ I'm interested in all things C++ & Data Science.
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ayukt-v&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=ayukt-v&include_all_commits=true&theme=dark_github)
 
+https://github-stats-extended.vercel.app/api/top-langs?username=ayukt-v&langs_count=4&theme=dark_github
 
 
 <!--
